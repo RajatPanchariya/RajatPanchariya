@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatpanchariya&label=Profile%20views&color=0e75b6&style=flat" alt="rajatpanchariya" /> </p>
 
-- 🔭 I’m currently working on [Harsidhi Haweli Website](harsidhihaweli.com)
+- 🔭 I’m currently working on [Harsidhi Haweli Website](https://harsidhihaweli.com/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ik5CSzU6hwVhNk1sITnrVKmY31CosRnY/view](https://drive.google.com/file/d/1ik5CSzU6hwVhNk1sITnrVKmY31CosRnY/view)
 
